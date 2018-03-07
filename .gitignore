@@ -1,0 +1,9 @@
+OBJ/
+OBJ/
+*.uvoptx
+*.uvguix.*
+*.uvprojx
+*.map
+*.hex
+*.lst
+!USER/CoopBoard.uvprojx
